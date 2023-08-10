@@ -1,5 +1,6 @@
-<h1 align="center">Konichiwa Amritanshu Kumar</h1>
-<h3 align="center">A Learner Who Grab the Knowledge, No matter what it cost and Upgrade the Skill.</h3>
+<p align="center"><img src="https://www.hdwallpapers.in/download/blonde_boy_naruto_uzumaki_4k_hd_naruto-HD.jpg"/> </p>
+<h1 align="center">Konichiwa Its Me 👉 Amritanshu Kumar</h1>
+<h3 align="center">A Learner 🧑‍🎓 Who Grab the Knowledge, No matter what it cost and Upgrade  🚀the Skill.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spynet&label=Profile%20views&color=0e75b6&style=flat" alt="spynet" /> </p>
 
@@ -9,9 +10,9 @@
 
 - 💬 Ask me about **Cyber security, Network.**
 
-- 📫 How to reach me **amritanshukumarpatel456@gmail.com**
+- 📫 Message Me :- On Insta. 
 
-- 💤 Bad Things About Me **I Am So lazy and So Desperate To do work, it depends upon my mood 😝.**
+- 💤 Bad Things About Me **I Am So lazy 🦥 and So Desperate To do work, it depends upon my mood 😝.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
