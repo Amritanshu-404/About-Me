@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spynet&label=Profile%20views&color=0e75b6&style=flat" alt="spynet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spynet" alt="spynet" /></a> </p>
-
 - **Done Several Internship Training In The field of  Cybersecurity**
 
-- 💬 Ask me about **Cyber security, Network.**
+- 💬 Ask me about **Cyber security, Networking Stuff and also You can Get Some Life Lessons.**
 
 - 📫 Message Me **📧 amritanshukumarpatel456@gmail.com** 
 
