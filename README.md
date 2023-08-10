@@ -1,6 +1,6 @@
 <p align="center"><img src="https://www.hdwallpapers.in/download/blonde_boy_naruto_uzumaki_4k_hd_naruto-HD.jpg"/> </p>
-<h1 align="center">Konichiwa Its Me 👉 Amritanshu Kumar</h1>
-<h3 align="center">A Learner 🧑‍🎓 Who Grab the Knowledge, No matter what it cost and Upgrade  🚀the Skill.</h3>
+<h1 align="center">KONICHIWA <hr><br>Its Me 👉 Amritanshu Kumar</h1>
+<h3 align="center">A Learner, Student and Upcoming Expert 🧑‍🎓 Who Grabbing the Knowledge Since Infected by It.<br> No matter what it cost and Upgrade  🚀the Skill.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spynet&label=Profile%20views&color=0e75b6&style=flat" alt="spynet" /> </p>
 
