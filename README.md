@@ -1,4 +1,6 @@
-<p align="center" width="300px" height="300px"><img src="https://www.hdwallpapers.in/download/blonde_boy_naruto_uzumaki_4k_hd_naruto-HD.jpg"/> </p>
+<img src="https://i.pinimg.com/originals/9c/2a/4b/9c2a4b6f193687a23341cbc59c72017e.jpg" height="400" width="1024" >
+
+
 <h1 align="center">KONICHIWA <hr>Its Me 👉 Amritanshu Kumar</h1>
 <h3 align="center">A Learner, Student and Upcoming Expert 🧑‍🎓 Who Grabbing the Knowledge Since Infected by It.<br> No matter what it cost and Upgrading 🚀the Skill.</h3>
 
