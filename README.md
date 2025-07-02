@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/9c/2a/4b/9c2a4b6f193687a23341cbc59c72017e.jpg" height="400" width="1024" >
 <img src="https://user-images.githubusercontent.com/64751167/91557308-e1509980-e951-11ea-9b57-695796bd82cf.gif" alt="Animated Tech" />
 
-<h1 align="center">KONICHIWA <hr> I'm Amritanshu Kumar</h1>
+<h1 align="center">KONICHIWA  - I'm Amritanshu Kumar</h1>
 
 <h3 align="center">
 A Passionate Learner, Student, and Aspiring Expert 🧑‍🎓<br>
